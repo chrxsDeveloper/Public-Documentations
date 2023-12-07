@@ -44,13 +44,15 @@ you know how I name my services or databases.
 
 ### Auto-generate erase order:
 
-1. Please look up the email about the password rotation you got from [BeeMO](https://github.com/chrxsDeveloper/BeeMO).
+1. Please look up the email you got from [BeeMO](https://github.com/chrxsDeveloper/BeeMO).
 2. At the end of the email is a clickable link, which generates a valid email, to erase your data of the
-   specific database.
+   specific database.<br>
+   Except for BeeMO's welcome message. There should be a clickable link in the section <i>I don't care, you're
+   annoying. Don't text me again!</i> 🔕.
 
 ### Custom erase order:
 
-1. Please look up the email about the password rotation you got from [BeeMO](https://github.com/chrxsDeveloper/BeeMO).
+1. Please look up the email you got from [BeeMO](https://github.com/chrxsDeveloper/BeeMO).
 2. After the first paragraph is a field named `service-id`. Copy the `service-id`.
 3. Open a new email and set [from](#from), [to](#to) and [subject](#subject) as described above.
 4. Paste the `service-id` into the email body. If you want to erase your data of multiple databases, please separate
